@@ -45,7 +45,11 @@ Python
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=TLS345&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/TLS345)
+![TLS345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TLS345&theme=vue-dark&hide_border=true)
+
+![TLS345's Stats](https://github-readme-stats.vercel.app/api?username=TLS345&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 </div>
+
 
 
